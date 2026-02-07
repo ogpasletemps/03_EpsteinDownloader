@@ -11,7 +11,9 @@ Explication du téléchargement :
 
 Etape 1 - Telechargement de python version 3.10.12 - Disponible à cette adresse : https://www.python.org/downloads/release/python-31210/
 
-Etape 2 - Execution du fichier init.bat
+Etape 2 - Téléchargement de la dernière release disponible sur github en zip.
+
+Etape 3 - Execution du fichier init.bat
 
 Une fois que le téléchargement est effectué le logiciel est prêt à être utilisé.
 
