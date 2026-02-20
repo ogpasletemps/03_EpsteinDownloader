@@ -21,9 +21,7 @@ Etape 1 - Telechargement de python version 3.12.10
 Veillez à cocher l'ajout de .path lors de l'installation de python.
 Url ci-dessous.
 ```
-```
- https://www.python.org/downloads/release/python-31210/
-```
+Lien pour le téléchargement de [Python 3.12.10](https://www.python.org/downloads/release/python-31210/)
 ```
 Etape 2 - Téléchargement de la dernière release disponible sur github en zip.
 ```
