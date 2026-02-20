@@ -1,17 +1,17 @@
-# **EpsteinDowloader
+# EpsteinDowloader
 
 Ce logiciel à pour but d'aider au téléchargement des données présentes dans les "Epstein files" publiés par le departement de la justice du gouvernement américain.
 Le logiciel utilise le même fonctionnement que le site web de référence, il suffit de taper un mot, une combinaison de mots ou un nom propre pour effectuer une recherche.
 Si le champ recherché est présent dans la base de données du département de la justice, tout les fichiers liés seront téléchargés et placés dans le dossier du même nom.
 Un fichier excel additionel recensant tout les occurence du champ recherché sera ajouté avec les metadonnées lié au fichier.
 
+# Installation
 L'installation du logiciel est détaillé ci-dessous.
 
 Explication du téléchargement :
 
-'''
-Etape 1 - Telechargement de python version 3.10.12 - Disponible à cette adresse : https://www.python.org/downloads/release/python-31210/
-'''
+`Etape 1 - Telechargement de python version 3.10.12 - Disponible à cette adresse : https://www.python.org/downloads/release/python-31210/`
+
 
 Etape 2 - Téléchargement de la dernière release disponible sur github en zip.
 
