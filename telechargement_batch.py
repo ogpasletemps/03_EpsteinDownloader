@@ -7,7 +7,7 @@ class colors:
     END = "\033[0m"
 
 base = os.getcwd()
-path = Path(base + r"/batch/batch.xlsx")
+path = Path(base + r"/batch.xlsx")
 df = pd.read_excel(path)
 liste_mot = list(df["mot"])
 iterations = len(liste_mot)
