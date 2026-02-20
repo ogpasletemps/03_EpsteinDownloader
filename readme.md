@@ -10,7 +10,7 @@ L'installation du logiciel est détaillé ci-dessous.
 
 Explication du téléchargement :
 
-`Etape 1 - Telechargement de python version 3.10.12 - Disponible à cette adresse : https://www.python.org/downloads/release/python-31210/`
+```Etape 1 - Telechargement de python version 3.10.12 - Disponible à cette adresse : https://www.python.org/downloads/release/python-31210/```
 
 
 Etape 2 - Téléchargement de la dernière release disponible sur github en zip.
